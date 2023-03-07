@@ -1,1 +1,0 @@
-stun.avigora.fr:3478
