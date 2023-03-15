@@ -1,1 +1,0 @@
-stun.autosystem.com:3478
