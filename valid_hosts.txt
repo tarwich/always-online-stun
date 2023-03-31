@@ -1,1 +1,0 @@
-stun.planetarium.com.br:3478
