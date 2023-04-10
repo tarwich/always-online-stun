@@ -1,0 +1,1 @@
+stun.sipy.cz:3478
