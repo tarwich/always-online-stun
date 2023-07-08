@@ -1,1 +1,0 @@
-stun.openjobs.hu:3478
