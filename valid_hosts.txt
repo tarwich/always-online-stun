@@ -1,0 +1,1 @@
+stun.voip.blackberry.com:3478
