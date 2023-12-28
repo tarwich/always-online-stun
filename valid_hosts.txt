@@ -1,1 +1,0 @@
-stun.gntel.nl:3478
