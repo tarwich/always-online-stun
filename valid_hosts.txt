@@ -1,1 +1,0 @@
-stun.aa.net.uk:3478
