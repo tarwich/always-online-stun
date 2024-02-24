@@ -1,1 +1,1 @@
-stun.voicetech.se:3478
+stun.openvoip.it:3478
